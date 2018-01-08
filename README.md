@@ -35,9 +35,9 @@ bash startmas.sh
 ## Usage example
 
 You can find some examples into the Example folder, where examples are divided into 3 subfolders:
-* basic: aimed at basic Windows-based setup, no agent types, every agent living in a separated sicstus window.
-* advanced: more complex, aimed at Unix-like based environment, with agent type, instances, each agent living in a separated xterm console.
-* more: MAS examples derived from our students projects.
+* __basic__: aimed at basic Windows-based setup, no agent types, every agent living in a separated sicstus window.
+* __advanced__: more complex, aimed at Unix-like based environment, with agent type, instances, each agent living in a separated xterm console.
+* __more__: MAS examples derived from our students projects.
 
 
 ## Development setup
@@ -56,22 +56,22 @@ To create a new DALI MAS, you can use an example as a boilerplate:
 
 
 ## Release History
-To do
+
+Check [release history](http://github.com/AAAI-DISIM-UnivAQ/DALI/releases) page.
 
 
-## Meta
-To complete
+## Contacts
 
-Your Name – [@YourTwitter](https://twitter.com/) – YourEmail@example.com
+Giovanni De Gasperis – [@giodegas](http://twitter.com/giodegas) – giovanni.degasperis-at-univaq-it
 
 Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 
-[https://github.com/AAAI-DISIM-UnivAQ](https://github.com/AAAI-DISIM-UnivAQ)
+[http://github.com/AAAI-DISIM-UnivAQ](http://github.com/AAAI-DISIM-UnivAQ)
 
 
 ## Contributing
 To complete
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/AAAI-DISIM-UnivAQ/DALI/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -79,11 +79,14 @@ To complete
 
 
 ## References
+* [DALI 1.0](http://www.di.univaq.it/stefcost/Sito-Web-DALI/WEB-DALI)
 * COSTANTINI, Stefania. [*The DALI Agent-Oriented Logic Programming Language: Summary and References 2015.*](http://costantini.di.univaq.it/pubbls/Dali_References.pdf)
-* COSTANTINI S, TOCCHIO A. *The DALI logic programming agent-oriented language.* In Logics in Artificial Intelligence Springer Berlin Heidelberg, 2004, pp:685-688.
 * COSTANTINI S, TOCCHIO A. [*A logic programming language for multi-agent systems.*](docs/DALI_Language_description.pdf) Logics in Artificial Intelligence, Springer Berlin Heidelberg, 2002, pp:1-13.
+* COSTANTINI S, TOCCHIO A. *The DALI logic programming agent-oriented language.* In Logics in Artificial Intelligence Springer Berlin Heidelberg, 2004, pp:685-688.
 * COSTANTINI S, TOCCHIO A. *DALI: An Architecture for Intelligent Logical Agents.* In: AAAI Spring Symposium: Emotion, Personality, and Social Behavior. 2008. pp:13-18.
 * BEVAR V, COSTANTINI S, TOCCHIO A, DE GASPERIS G. *A multi-agent system for industrial fault detection and repair.* In: Advances on Practical Applications of Agents and Multi-Agent Systems. Springer Berlin Heidelberg, 2012. pp:47-55.
 * DE GASPERIS, G, BEVAR V, COSTANTINI S, TOCCHIO A, PAOLUCCI A. *Demonstrator of a multi-agent system for industrial fault detection and repair.* In: Advances on Practical Applications of Agents and Multi-Agent Systems. Springer Berlin Heidelberg, 2012. pp:237-240.
-* [DALI 1.0](http://www.di.univaq.it/stefcost/Sito-Web-DALI/WEB-DALI)
-* DALI 14.08a Release [![DOI](http://zenodo.org/badge/doi/10.5281/zenodo.11198.png)](http://dx.doi.org/10.5281/zenodo.11198)
+* DE GASPERIS Giovanni. *DETF 1st Release (Version 14.08a).* Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1044488.svg)](https://doi.org/10.5281/zenodo.1044488), 2014, August 6. 
+* COSTANTINI, Stefania; DE GASPERIS, Giovanni; NAZZICONE, Giulio. *DALI for cognitive robotics: principles and prototype implementation.* In: International Symposium on Practical Aspects of Declarative Languages. Springer, Cham, 2017. p. 152-162.
+* COSTANTINI, Stefania, DE GASPERIS, Giovanni, PITONI Valentina, SALUTARI Agnese. [*DALI: A multi agent system framework for the web, cognitive robotic and complex event processing.*](http://ceur-ws.org/Vol-1949/CILCpaper05.pdf), [CILC 2017](http://cilc2017.unina.it), 32nd Italian Conference on Computational Logic
+26-28 September 2017, Naples, Italy
